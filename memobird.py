@@ -14,7 +14,7 @@ from homeassistant.components.notify import (
 from homeassistant.const import CONF_API_KEY
 import homeassistant.helpers.config_validation as cv
 
-REQUIREMENTS = ['pymobird==0.1.1']
+REQUIREMENTS = ['pymobird==0.2.1']
 
 _LOGGER = logging.getLogger(__name__)
 
