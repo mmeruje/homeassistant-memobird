@@ -3,7 +3,7 @@ A Home-Assistant component for Memobird
 
 ## Installation
 
-Copy `custom_components` to your Home Assistant setup (usualy `/home/homeassistant/.homeassistant/`
+Copy `custom_components` to your Home Assistant setup (usualy `/home/homeassistant/.homeassistant/`)
 
 ## Configuration
 
