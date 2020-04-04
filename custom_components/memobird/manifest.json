@@ -1,0 +1,6 @@
+{
+  "domain": "memobird",
+  "name": "memobird",
+  "documentation": "https://github.com/mmeruje/homeassistant-memobird",
+  "codeowners": ["@Rohja", "@mmeruje"]
+}
